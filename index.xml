@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>辛歧董的博客</title>
-    <link>/</link>
+    <link>ironyreunion.github.io/</link>
     <description>Recent content on 辛歧董的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 22 Jan 2020 16:56:00 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="ironyreunion.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>viewer.js simple to use</title>
-      <link>/posts/viewer.js-simple-to-use/</link>
+      <link>ironyreunion.github.io/posts/viewer.js-simple-to-use/</link>
       <pubDate>Wed, 22 Jan 2020 16:56:00 +0800</pubDate>
       
-      <guid>/posts/viewer.js-simple-to-use/</guid>
+      <guid>ironyreunion.github.io/posts/viewer.js-simple-to-use/</guid>
       <description>背景 当使用viewer.js时，经常会根据ajax请求服务器端返回的数据来决定具体展示多少张图片，这时候viewer.js在页面上定义的静态数量就不太适用。 &amp;lt;div class=&amp;#34;row&amp;#34; &amp;gt; &amp;lt;ul id=&amp;#34;imgUl&amp;#34; style=&amp;#34;display:none;&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;img&amp;gt;&amp;lt;li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;script type=&amp;#34;text/javascript&amp;#34;&amp;gt; $(&amp;#39;#imgUl&amp;#39;).viewer({ url: &amp;#39;data-original&amp;#39;, }); &amp;lt;/script&amp;gt; 这时候我们就会考虑利用jQuery来动态改变&amp;lt;li&amp;gt;元素的个数，让页面能够展示对</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <link>ironyreunion.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 16 Jan 2020 13:56:03 +0800</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>ironyreunion.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
