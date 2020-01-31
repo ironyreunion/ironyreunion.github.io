@@ -18,7 +18,22 @@
   </url>
   
   <url>
+    <loc>ironyreunion.github.io/tags/</loc>
+    <lastmod>2020-01-22T16:56:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ironyreunion.github.io/tags/viewer-js/</loc>
+    <lastmod>2020-01-22T16:56:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>ironyreunion.github.io/posts/viewer-js%E7%9A%84%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2020-01-22T16:56:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ironyreunion.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2020-01-22T16:56:00+08:00</lastmod>
   </url>
   
@@ -29,10 +44,6 @@
   
   <url>
     <loc>ironyreunion.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>ironyreunion.github.io/tags/</loc>
   </url>
   
 </urlset>

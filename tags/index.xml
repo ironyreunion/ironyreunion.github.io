@@ -6,9 +6,28 @@
     <description>Recent content in Tags on 辛歧董的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Wed, 22 Jan 2020 16:56:00 +0800</lastBuildDate>
     
 	<atom:link href="ironyreunion.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>viewer js</title>
+      <link>ironyreunion.github.io/tags/viewer-js/</link>
+      <pubDate>Wed, 22 Jan 2020 16:56:00 +0800</pubDate>
+      
+      <guid>ironyreunion.github.io/tags/viewer-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>前端</title>
+      <link>ironyreunion.github.io/tags/%E5%89%8D%E7%AB%AF/</link>
+      <pubDate>Wed, 22 Jan 2020 16:56:00 +0800</pubDate>
+      
+      <guid>ironyreunion.github.io/tags/%E5%89%8D%E7%AB%AF/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
