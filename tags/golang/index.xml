@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 辛歧董的博客</title>
-    <link>ironyreunion.github.io/posts/</link>
-    <description>Recent content in Posts on 辛歧董的博客</description>
+    <title>golang on 辛歧董的博客</title>
+    <link>ironyreunion.github.io/tags/golang/</link>
+    <description>Recent content in golang on 辛歧董的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 31 Jan 2020 23:19:51 +0800</lastBuildDate>
     
-	<atom:link href="ironyreunion.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="ironyreunion.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>ironyreunion.github.io/posts/20200131-%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3golang%E7%9A%84rand.intn%E7%94%9F%E6%88%90%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
       <description>想使用rand.Intn来获取随机数，可是多次重复执行发现结果一样，可知rand.Intn获取的是伪随机数。可通过rand.Seed设置随机种子来解决</description>
-    </item>
-    
-    <item>
-      <title>Viewer.js的踩坑记录</title>
-      <link>ironyreunion.github.io/posts/20200122-viewer.js%E7%9A%84%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</link>
-      <pubDate>Wed, 22 Jan 2020 16:56:00 +0800</pubDate>
-      
-      <guid>ironyreunion.github.io/posts/20200122-viewer.js%E7%9A%84%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</guid>
-      <description>Viewer.js插件动态显示的图片个数无法更新，该如何处理？可以每次使用到时重新创建viewer对象，来重新生成对应的html代码</description>
     </item>
     
   </channel>

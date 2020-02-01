@@ -6,10 +6,19 @@
     <description>Recent content in Tags on 辛歧董的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 22 Jan 2020 16:56:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 23:19:51 +0800</lastBuildDate>
     
 	<atom:link href="ironyreunion.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>golang</title>
+      <link>ironyreunion.github.io/tags/golang/</link>
+      <pubDate>Fri, 31 Jan 2020 23:19:51 +0800</pubDate>
+      
+      <guid>ironyreunion.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>viewer js</title>

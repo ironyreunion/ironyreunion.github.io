@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>viewer.js simple to use</title>
-      <link>ironyreunion.github.io/posts/viewer-js%E7%9A%84%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</link>
+      <title>Viewer.js的踩坑记录</title>
+      <link>ironyreunion.github.io/posts/20200122-viewer.js%E7%9A%84%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</link>
       <pubDate>Wed, 22 Jan 2020 16:56:00 +0800</pubDate>
       
-      <guid>ironyreunion.github.io/posts/viewer-js%E7%9A%84%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</guid>
-      <description>背景 当使用viewer.js时，经常会根据ajax请求服务器端返回的数据来决定具体展示多少张图片，这时候viewer.js在页面上定义的静态数量就不太适用。 &amp;lt;div class=&amp;#34;row&amp;#34; &amp;gt; &amp;lt;ul id=&amp;#34;imgUl&amp;#34; style=&amp;#34;display:none;&amp;#34;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;img&amp;gt;&amp;lt;li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;script type=&amp;#34;text/javascript&amp;#34;&amp;gt; $(&amp;#39;#imgUl&amp;#39;).viewer({ url: &amp;#39;data-original&amp;#39;, }); &amp;lt;/script&amp;gt; 这时候我们就会考虑利用jQuery来动态改变&amp;lt;li&amp;gt;元素的个数，让页面能够展示对</description>
+      <guid>ironyreunion.github.io/posts/20200122-viewer.js%E7%9A%84%E8%B8%A9%E5%9D%91%E8%AE%B0%E5%BD%95/</guid>
+      <description>Viewer.js插件动态显示的图片个数无法更新，该如何处理？可以每次使用到时重新创建viewer对象，来重新生成对应的html代码</description>
     </item>
     
   </channel>
